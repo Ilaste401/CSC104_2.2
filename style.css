@@ -1,0 +1,25 @@
+body{
+	background-color: pink;
+}
+/*Poem Title */
+h1{
+	color: mediumpurple;
+	text-shadow:0 0 2px white;
+	font-family: times new roman, arial;
+}
+/*Poem Author */
+h2{
+	color: firebrick;
+	text-shadow:0 0 2px black;
+	font-family: arial;
+}
+/*Poem Style */
+p{
+	color: firebrick;
+	text-shadow:0 0 2px crimson;
+	font-family: arial;
+}
+
+a:visited{
+	color: darkblue;
+}
